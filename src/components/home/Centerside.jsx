@@ -28,7 +28,7 @@ const Centerside = () => {
             <div className='w-[952px] flex gap-6'>
                 <div className='w-1/2 h-fit '>
                     {imgItems?.map((data)=>(
-                        <div className='w-full h-fit rounded mb-6'>
+                    <div className='w-full h-fit rounded mb-6'>
                         <div className='flex flex-row items-center justify-between bg-[#202836] px-2 rounded-tr-xl rounded-tl-xl'>
                             <Userblock/>
                             <div className='flex flex-row gap-2 items-center'>

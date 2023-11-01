@@ -1,6 +1,6 @@
 const Gallery = () => {
     return ( 
-        <section class="overflow-hidden text-white bg-[#202836] rounded-xl">
+        <section class="overflow-hidden text-white bg-[#202836] rounded-xl max-h-[604px]">
         <div class="container px-4 py-2 mx-auto">
             <div className="flex items-center justify-center p-2">
                 <span className="font-bold text-xl">Your Gallery</span>
